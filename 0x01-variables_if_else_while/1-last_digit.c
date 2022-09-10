@@ -21,7 +21,7 @@ int main(void)
 	{
 		printf("%d is %d zero\n", n, l);
 	}
-	else
+	else (l < 6)
 	{
 		printf("%d is %d less negaative\n", n, l);
 	}
