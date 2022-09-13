@@ -1,3 +1,4 @@
+#include <stdio.h>
 /**
  * main - Prints "0_putchar" followed by a new line.
  *
